@@ -1,0 +1,107 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Share Tech', sans-serif;
+}
+.container {
+    height: 100vh;
+    width: 100%;
+    background-color: #1c242f ;
+    font-family: 'Share Tech', sans-serif;
+    position: relative;
+    color: #fff;
+}
+.logo {
+    font-weight: 600;
+    font-size: 3.8rem;
+}
+.nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 50px;
+}
+.container .ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 6px 20px;
+    font-weight: 500;
+    font-size: 1.7rem;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+.container .ul li:hover{
+    border-radius: 20px;
+    background-color: #ff4321;
+    color: black;
+}
+
+.header {
+    position: absolute;
+    bottom: 30%;
+    padding: 0px 50px;
+}
+h1 {
+    font-size: 7rem;
+}
+h2{
+    font-size: 4rem;
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+button {
+    padding: 0 5px;
+    width: 148px;
+    outline: none;
+    border: 0;
+    height: 40px;
+    font-weight: 500;
+    background-color: #ff4321;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: width 0.5s;
+}
+button:hover {
+    width: 160px;
+    color: #fff;
+}
+.img {
+    width: 400px;
+    height: 400px;
+    margin-top: 60px;
+    margin-left: 780px;
+    border-radius: 50%;
+    transition: 1.5s;
+}
+.img:hover {
+    transform: scale(1.1);
+}
+.containerright{
+    margin-left: 900px;
+}
+.iconos {
+    position: absolute;
+    bottom: 8%;
+    padding: 0 50px;
+}
+.iconos > i{
+    font-size: 2.5rem;
+    padding: 0 10px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+.iconos > i:hover{
+    color: #ff4321;
+}
