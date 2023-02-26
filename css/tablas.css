@@ -40,7 +40,7 @@ table {
     background-color: #0c9b4c;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 @font-face {
     font-family: net;
@@ -54,7 +54,7 @@ table {
     border-top: none;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .box-3 {
     height: 120px;
@@ -64,7 +64,7 @@ table {
     background-color: #ff7b00;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .box-4 {
     height: 120px;
@@ -76,7 +76,7 @@ table {
     border-top-right-radius: 20px;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .no-aplica {
     height: 95px;
@@ -86,7 +86,7 @@ table {
     background-color: #008b8b;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .discovery {
     height: 95px;
@@ -95,7 +95,7 @@ table {
     background-color: #008b8b;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .si{
     border: 3px solid #cacaca;
@@ -111,7 +111,7 @@ table {
     background-color: #008b8b;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .hbo {
     border: 3px solid #cacaca;
@@ -121,7 +121,7 @@ table {
     border-bottom: none;
     font-family: net;
     color: white;
-    font-size: 29px;
+    font-size: 33px;
 }
 .programa {
     height: 70px;
@@ -130,7 +130,7 @@ table {
     background-color: #008b8b;
     font-family: net;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 .nota-1 {
     height: 70px;
